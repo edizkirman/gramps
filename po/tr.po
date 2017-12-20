@@ -23797,7 +23797,7 @@ msgstr ""
 
 #: ../gramps/plugins/lib/libgedcom.py:7839
 msgid "Your GEDCOM file is empty."
-msgstr ""
+msgstr "GEDCOM dosyası boş"
 
 #. First is used as default selection.
 #. As seen on the internet, ISO-xxx are listed as capital letters
@@ -23842,7 +23842,7 @@ msgstr "Telif hakkı bildirimi yok"
 #: ../gramps/plugins/lib/libmetadata.py:62
 #: ../gramps/plugins/lib/libmetadata.py:98
 msgid "Invalid format"
-msgstr ""
+msgstr "Geçersiz biçem"
 
 #: ../gramps/plugins/lib/libmetadata.py:66
 #, python-format
@@ -23860,22 +23860,22 @@ msgstr ""
 
 #: ../gramps/plugins/lib/libmetadata.py:103
 msgid "GPS"
-msgstr ""
+msgstr "GPS"
 
 #: ../gramps/plugins/lib/libnarrate.py:88
 #, python-format
 msgid "%(unknown_gender_name)s was born on %(birth_date)s in %(birth_place)s."
-msgstr ""
+msgstr "%(unknown_gender_name)s  %(birth_date)s tarihinde,  %(birth_place)s mevkiinde doğdu."
 
 #: ../gramps/plugins/lib/libnarrate.py:89
 #, python-format
 msgid "%(male_name)s was born on %(birth_date)s in %(birth_place)s."
-msgstr ""
+msgstr "%(male_name)s  %(birth_date)s tarihinde, %(birth_place)s mevkiinde doğdu."
 
 #: ../gramps/plugins/lib/libnarrate.py:90
 #, python-format
 msgid "%(female_name)s was born on %(birth_date)s in %(birth_place)s."
-msgstr ""
+msgstr "%(female_name)s  %(birth_date)s tarihinde, mevkiinde %(birth_place)s doğdu"
 
 #: ../gramps/plugins/lib/libnarrate.py:93
 #, python-format
@@ -23900,27 +23900,27 @@ msgstr "%(birth_date)s tarihinde %(birth_place)s mevkiinde doğdu."
 #: ../gramps/plugins/lib/libnarrate.py:102
 #, python-format
 msgid "%(unknown_gender_name)s was born %(modified_date)s in %(birth_place)s."
-msgstr ""
+msgstr "%(unknown_gender_name)s  %(modified_date)s tarihinde %(birth_place)s mevkiinde doğdu."
 
 #: ../gramps/plugins/lib/libnarrate.py:103
 #, python-format
 msgid "%(male_name)s was born %(modified_date)s in %(birth_place)s."
-msgstr ""
+msgstr "%(male_name)s %(modified_date)s tarihinde, %(birth_place)s mevkiinde doğdu."
 
 #: ../gramps/plugins/lib/libnarrate.py:104
 #, python-format
 msgid "%(female_name)s was born %(modified_date)s in %(birth_place)s."
-msgstr ""
+msgstr "%(female_name)s  %(modified_date)s tarihinde, mevkiiende %(birth_place)s doğdu."
 
 #: ../gramps/plugins/lib/libnarrate.py:107
 #, python-format
 msgid "This person was born %(modified_date)s in %(birth_place)s."
-msgstr ""
+msgstr "Bu kişi %(modified_date)s tarihinde,  %(birth_place)s mevkiinde doğdu."
 
 #: ../gramps/plugins/lib/libnarrate.py:108
 #, python-format
 msgid "He was born %(modified_date)s in %(birth_place)s."
-msgstr ""
+msgstr "%(modified_date)s tarihinde, mevkiinde %(birth_place)s doğdu."
 
 #: ../gramps/plugins/lib/libnarrate.py:109
 #, python-format
